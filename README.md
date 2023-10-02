@@ -1,8 +1,6 @@
 ### Olá, sou a Gabz👋
-
-
-- 🌱 Estou atualmente aprendendo Python ...
-- 😄 Pronome: ela/dela 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabztrivelato&show_icons=true&theme=radical)
 
   
  <div style="display: inline_block"><br>
